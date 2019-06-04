@@ -1,2 +1,3 @@
 print("Hello World")
-print("Ake")
+print("Name : Ake")
+print("Age : 23")
